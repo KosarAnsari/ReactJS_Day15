@@ -1,0 +1,21 @@
+.heading {
+  color: red;
+  background-color: black;
+}
+
+.img {
+  width: 150px;
+}
+
+.card {
+  border: 2px solid black;
+  width: 150px;
+  box-shadow: 1px 1px 1px 1px;
+  margin: 10px;
+}
+
+.textwrap {
+  padding: 10px;
+  background-color: pink;
+  color: gray;
+}
